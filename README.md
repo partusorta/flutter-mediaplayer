@@ -1,6 +1,6 @@
 # news_player
 
-A new Flutter project.
+图片轮播和视频轮播切换，多个视频连续播放，视频播放用的是flutter_ijkplayer
 
 ## Getting Started
 
