@@ -1,6 +1,6 @@
 # news_player
 
-图片轮播和视频轮播切换，多个视频连续播放，视频播放用的是flutter_ijkplayer
+是一个androidTV的需求，图片轮播和视频轮播切换，多个视频连续播放，视频播放用的是flutter_ijkplayer，切换是websocket
 
 ## Getting Started
 
